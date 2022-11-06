@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Built a task manager app using react
+
+![Alt Text](https://github.com/sreeja8/Task-Manager-react/blob/main/Screen%20Recording%202022-11-06%20at%205.57.37%20PM.gif)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
